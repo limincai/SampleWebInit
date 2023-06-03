@@ -1,4 +1,4 @@
-package com.mincai.testwebinit;
+package com.mincai.samplewebinit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author limincai
  */
 @SpringBootApplication
-public class TestWebInitApplication {
+public class SampleWebInitApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TestWebInitApplication.class, args);
+        SpringApplication.run(SampleWebInitApplication.class, args);
     }
 
 }

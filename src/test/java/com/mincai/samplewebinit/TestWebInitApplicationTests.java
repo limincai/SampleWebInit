@@ -1,4 +1,4 @@
-package com.mincai.testwebinit;
+package com.mincai.samplewebinit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

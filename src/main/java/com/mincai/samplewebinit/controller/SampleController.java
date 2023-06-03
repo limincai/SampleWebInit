@@ -1,4 +1,4 @@
-package com.mincai.testwebinit.controller;
+package com.mincai.samplewebinit.controller;
 
 import com.mincai.webinit.common.ErrorCode;
 import com.mincai.webinit.exception.BusinessException;

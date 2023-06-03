@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mincai</groupId>
-    <artifactId>TestWebInit</artifactId>
+    <artifactId>SampleWebInit</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>TestWebInit</name>
-    <description>TestWebInit</description>
+    <name>SampleWebInit</name>
+    <description>SampleWebInit</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
