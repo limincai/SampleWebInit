@@ -1,6 +1,6 @@
 server:
   port: 8081
-#??? webinit???
+#以下为webinit的配置
 knife4j:
   config:
     name: limincai
