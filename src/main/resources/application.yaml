@@ -1,0 +1,17 @@
+server:
+  port: 8081
+#??? webinit???
+knife4j:
+  config:
+    name: limincai
+    email: 3206820023@qq.com
+    version: 1.0
+    title: testwebinit
+    description: testwebinit
+    scan-path: com.mincai.testwebinit.controller
+spring:
+  profiles:
+    active: dev
+  mvc:
+    path match:
+      matching-strategy: ant_path_matcher
